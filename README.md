@@ -31,8 +31,8 @@ Aplikasi web untuk mengelola layanan jasa teknisi komputer dengan fitur lengkap 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/jasa-teknisi.git
-cd jasa-teknisi
+git clone https://github.com/username/technician-management-system.git
+cd technician-management-system
 ```
 
 ### 2. Install Dependencies
