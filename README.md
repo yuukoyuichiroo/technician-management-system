@@ -206,24 +206,6 @@ Anda bisa:
 
 _Note: Edit dan hapus juga tersedia untuk menu Jasa dan Info Toko_
 
-## 🎨 Screenshot
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Form Transaksi dengan Multiple Jasa
-
-![Form Transaksi](screenshots/transaksi-form.png)
-
-### Nota PDF
-
-![Nota](screenshots/nota-pdf.png)
-
-### Mobile View
-
-![Mobile](screenshots/mobile-view.png)
-
 ## 📊 Struktur Database
 
 ### Tabel `jasas`
@@ -357,9 +339,9 @@ Project ini menggunakan [MIT License](LICENSE)
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Yuukoyuichiroo**
 
--   GitHub: [@yourusername](https://github.com/yuukoyuichiroo)
+-   GitHub: [@yuukoyuichiroo](https://github.com/yuukoyuichiroo)
 
 ## 🙏 Acknowledgments
 
